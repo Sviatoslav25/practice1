@@ -41,6 +41,7 @@ namespace practice
             catch
             {
                 Console.WriteLine("Помилка вiдкриття файлу");
+                Console.ReadLine();
             }
             
         }
